@@ -3,8 +3,9 @@
 C++ gameplay and systems programmer focused on gameplay logic, physics and collision systems, and cross-disciplinary development.
 
 Singapore  
-GitHub: https://github.com/awhaxh  
-LinkedIn: www.linkedin.com/in/ashleyllj  
+[GitHub](https://github.com/awhaxh)  
+[LinkedIn](https://www.linkedin.com/in/ashleyllj)
+
 Internship Availability: 4 May 2026 - 9 April 2027 (Full-Time)
 
 ---
@@ -35,7 +36,8 @@ Grid-based Crossy Road–style game about guiding a stray cat through hazards.
 - Designed modular obstacle looping with difficulty scaling  
 - Integrated UI and audio systems and contributed to bug fixing and stability improvements
 
-Repo: Academic team repository, code available upon request.
+Repo: Original project is in a private academic repository.  
+This portfolio includes refactored gameplay-system code samples demonstrating my contributions.
 
 ---
 
@@ -55,5 +57,5 @@ Repo: Academic team repository, code available upon request.
 ---
 
 ## Contact
-ashleylowlijia@gmail.com  
+[Email](mailto:ashleylowlijia@gmail.com) 
 Open to project walkthroughs or technical deep-dives upon request.
