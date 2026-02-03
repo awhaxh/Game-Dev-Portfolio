@@ -52,7 +52,8 @@ C++ | Custom Engine | Team of 8 | 26 weeks
 - Programmed color-based projectile logic and collision handling  
 - Developed save/load functionality and debugging tools
 
-Repo: Academic team repository, code available upon request.
+Repo: Original project is in a private academic repository.  
+This portfolio includes refactored gameplay-system code samples demonstrating my contributions.
 
 ---
 
