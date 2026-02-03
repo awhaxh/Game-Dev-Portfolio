@@ -16,7 +16,7 @@ Internship Availability: 4 May 2026 - 9 April 2027 (Full-Time)
 C/C++, Python (familiar)
 
 **Tools & Engines**  
-Custom C++ Engines, Alpha Engine, Git, Visual Studio
+Custom C++ Engines, Alpha Engine, Git, Visual Studio, Linux/Windows
 
 **Focus Areas**  
 Gameplay systems, collision and physics, debugging and stability, rapid prototyping
@@ -24,6 +24,8 @@ Gameplay systems, collision and physics, debugging and stability, rapid prototyp
 ---
 
 # Featured Projects
+
+Selected academic team projects with publicly shareable gameplay-system excerpts.
 
 ## Purrsuit of Home  
 C++ | Alpha Engine | Team of 5 | 13 weeks
@@ -54,6 +56,49 @@ C++ | Custom Engine | Team of 8 | 26 weeks
 
 Repo: Original project is in a private academic repository.  
 This portfolio includes refactored gameplay-system code samples demonstrating my contributions.
+
+---
+
+# Technical Projects
+
+## Custom ECS Framework  
+C++ | Personal Project
+
+Lightweight Entity-Component-System framework exploring data-oriented design and modular gameplay architecture.
+
+- Implemented generic component storage using templates and type indexing  
+- Designed entity ID recycling and safe component management  
+- Built system iteration utilities for flexible processing  
+- Focused on separation of data and behavior  
+
+Repo: https://github.com/awhaxh/EntityComponentSystem
+
+---
+
+## Behaviour Tree Framework  
+C++ | Personal Project
+
+Modular behaviour tree system for gameplay AI experimentation.
+
+- Implemented selectors, sequences, and decorator nodes  
+- Integrated blackboard pattern for shared state  
+- Designed extensible node architecture  
+- Explored decision-making structures used in gameplay AI  
+
+Repo: https://github.com/awhaxh/BehaviourTreeLib
+
+---
+
+## Pathfinding & Graph Algorithms  
+C++ | Personal Project
+
+Collection of gameplay-relevant algorithms for navigation and traversal.
+
+- Implemented A*, Dijkstra, BFS, and DFS  
+- Explored heuristics and cost functions  
+- Focused on practical usage in game navigation scenarios  
+
+Repo: https://github.com/awhaxh/GameAlgorithms
 
 ---
 
