@@ -59,4 +59,5 @@ This portfolio includes refactored gameplay-system code samples demonstrating my
 
 ## Contact
 [Email](mailto:ashleylowlijia@gmail.com) 
+
 Open to project walkthroughs or technical deep-dives upon request.
